@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/931944733812350870/9835a2de9bfe460e934c42a17cb282e4/artifacts
+deleted_time: 1715457638780
+end_time: 1715374284148
+entry_point_name: ''
+experiment_id: '931944733812350870'
+lifecycle_stage: deleted
+run_id: 9835a2de9bfe460e934c42a17cb282e4
+run_name: intelligent-cat-91
+run_uuid: 9835a2de9bfe460e934c42a17cb282e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715374210606
+status: 3
+tags: []
+user_id: Ornella Gigante

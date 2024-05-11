@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/650776886144169954/b6a312eb5f0b44459a7ab72e8a61d32b/artifacts
+deleted_time: 1715457933357
+end_time: 1715457920229
+entry_point_name: ''
+experiment_id: '650776886144169954'
+lifecycle_stage: deleted
+run_id: b6a312eb5f0b44459a7ab72e8a61d32b
+run_name: clumsy-rook-472
+run_uuid: b6a312eb5f0b44459a7ab72e8a61d32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715457919200
+status: 4
+tags: []
+user_id: Ornella Gigante

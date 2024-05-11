@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/931944733812350870/e619d430a3274c3785bf1f9649c351ad/artifacts
+deleted_time: 1715457638780
+end_time: 1715372833581
+entry_point_name: ''
+experiment_id: '931944733812350870'
+lifecycle_stage: deleted
+run_id: e619d430a3274c3785bf1f9649c351ad
+run_name: salty-jay-271
+run_uuid: e619d430a3274c3785bf1f9649c351ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715372745209
+status: 3
+tags: []
+user_id: Ornella Gigante

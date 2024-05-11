@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/650776886144169954/ee4829fd2c6746de9a4c062f0b76260a/artifacts
+deleted_time: 1715457933356
+end_time: 1715457871689
+entry_point_name: ''
+experiment_id: '650776886144169954'
+lifecycle_stage: deleted
+run_id: ee4829fd2c6746de9a4c062f0b76260a
+run_name: nimble-kite-439
+run_uuid: ee4829fd2c6746de9a4c062f0b76260a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715457870871
+status: 4
+tags: []
+user_id: Ornella Gigante

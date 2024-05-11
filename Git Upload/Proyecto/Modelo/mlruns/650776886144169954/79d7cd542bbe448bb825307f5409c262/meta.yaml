@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/650776886144169954/79d7cd542bbe448bb825307f5409c262/artifacts
+deleted_time: 1715457933353
+end_time: 1715457716044
+entry_point_name: ''
+experiment_id: '650776886144169954'
+lifecycle_stage: deleted
+run_id: 79d7cd542bbe448bb825307f5409c262
+run_name: polite-pig-827
+run_uuid: 79d7cd542bbe448bb825307f5409c262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715457715268
+status: 4
+tags: []
+user_id: Ornella Gigante
