@@ -97,7 +97,8 @@ Para obtener más información sobre el uso y la implementación de esta aplicac
 
 Puedes ver una demostración del proyecto en acción haciendo clic en la imagen a continuación:
 
-[![Video demostrativo]([https://i.vimeocdn.com/video/12345_640.jpg])](https://vimeo.com/945478212)
+[![Miniatura del Video](https://i.vimeocdn.com/video/1850917414-b0cb3a0ad1703642604b657e44e0cd625dfcf0a54ee1b552b3f2e7fd9d7ae000-d?mw=1200&mh=844&q=70)](https://vimeo.com/945478212?share=copy)
+
 
 
 
