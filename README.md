@@ -1,38 +1,38 @@
-# 🏥 Enrutador Inteligente de Preguntas Médicas (NLP)
+# 🏥 Intelligent Medical Questions Router (NLP)
 
-## 🎯 Descripción
-Sistema inteligente que utiliza NLP para diagnosticar enfermedades y responder preguntas sobre síntomas comunes, combinando una interfaz intuitiva con modelos de machine learning entrenados con datos médicos.
+## 🎯 Description
+Intelligent system that uses NLP to diagnose diseases and answer questions about common symptoms, combining an intuitive interface with machine learning models trained on medical data.
 
-## 📁 Estructura del Proyecto
+## 📁 Project Structure
 ```
-enrutador_preguntas_enfermedades/
+disease_question_router/
 ├── .vscode/
 │   └── settings.json
 ├── data/
-│   ├── datasets_descarga_url
-│   ├── datasets_descarga_url (2)
+│   ├── datasets_download_url
+│   ├── datasets_download_url (2)
 │   └── TestDataset/
 │       └── qrels (2).txt
 └── src/
     ├── Main.py
-    ├── Entrenamiento_Interfaz.py
+    ├── Training_Interface.py
     └── paste-3.txt
 ```
 
-## ⚙️ Requisitos
+## ⚙️ Requirements
 ```bash
 pip install scikit-learn pandas numpy matplotlib seaborn mlflow
 ```
 
-## 🚀 Ejecución
+## 🚀 Execution
 
-### 💻 Interfaz de Usuario
+### 💻 User Interface
 ```bash
 cd src
 python app.py
 ```
 
-### 🔬 Entrenamiento del Modelo
+### 🔬 Model Training
 ```bash
 cd src
 python train.py
@@ -43,34 +43,34 @@ python train.py
 mlflow ui
 ```
 
-## 🔑 Componentes Clave
+## 🔑 Key Components
 
-### 📊 Directorios
-- `.vscode/`: Configuración de Visual Studio Code
-- `data/`: Datasets de entrenamiento y evaluación
-- `src/`: Código fuente principal
-  - `data/`: Procesamiento de datos
-  - `features/`: Extracción de características
-  - `models/`: Modelos ML
-  - `utils/`: Utilidades generales
+### 📊 Directories
+- `.vscode/`: Visual Studio Code configuration
+- `data/`: Training and evaluation datasets
+- `src/`: Main source code
+  - `data/`: Data processing
+  - `features/`: Feature extraction
+  - `models/`: ML models
+  - `utils/`: General utilities
 
-### 📜 Archivos Principales
-- `src/app.py`: Interfaz de usuario
-- `src/train.py`: Entrenamiento del modelo
+### 📜 Main Files
+- `src/app.py`: User interface
+- `src/train.py`: Model training
 
 ## 📈 MLflow
-Plataforma integrada para gestionar:
-- Experimentos de entrenamiento
-- Hiperparámetros
-- Métricas
-- Artefactos del modelo
+Integrated platform for managing:
+- Training experiments
+- Hyperparameters
+- Metrics
+- Model artifacts
 
-## 📚 Más Información
-Consulte la carpeta `docs/` para documentación detallada.
+## 📚 More Information
+See the `docs/` folder for detailed documentation.
 
-## Video demostrativo
+## Demo Video
 
-Puedes ver una demostración del proyecto en acción haciendo clic en la imagen a continuación:
+You can watch a demonstration of the project in action by clicking on the image below:
 
 [![Ejecución](https://i.vimeocdn.com/video/1850926811-9c914608397b06ba206f6cbd3c9a67fab371c385b8ad1ac21a46f8bf38c27a9e-d?mw=1200&mh=844&q=70)](https://vimeo.com/945483706?share=copy)
 
